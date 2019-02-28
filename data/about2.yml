@@ -5,25 +5,74 @@ description : #We are an innovative organisation centered on your needs.
 #description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
 aboutItem :
   - icon : tf-circle-compass
-    title : SEO Optimized
+    title : Solutions based on scientific and experimental approaches
+    content : R&D solutions with fact-based approaches after evaluating and validating our research and minimum viable products.
+
+  - icon : tf-tools-2
+    title : Technical prowess
     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
-  - icon : tf-hotairballoon
-    title : Easy Customization
+  - icon : tf-upload2
+    title : Cloud migration
     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
-  - icon : tf-hotairballoon
-    title : Easy Customization
+  - icon : tf-download2
+    title : Cloud development
     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
-  - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - icon : tf-recycle2
+    title : Quickly reuse of components and protocols
+    content : For load balancing, messaging (MQTT, Apache MQ, Rabbit MQ or OPC-UA), monitoring and cloud management with platforms such as Rightscale, Cloud foundry or Scalr.
 
-  - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-  - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - icon : tf-chat
+    title: Customer centric
+    content : It is all about your needs. We work closely with you and anticipate your requirements.
+  #
+  # - icon : tf-genius
+  #
+  # - icon : tf-bike
+  #
+  # - icon : tf-wine
+  #
+  #
+  # - icon : tf-download2
+  #
+  # - icon : tf-ion-android-upload
+  #
+  # - icon : tf-upload2
+  #
+  # - icon : tf-hazardous
+  #
+  # - icon : tf-clock
+  #   title: Real time?
+  #
+  # - icon : tf-aperture
+  #
+  # - icon : tf-quote
+  #
+  # - icon : tf-scope
+  #
+  # - icon : tf-dribbble
+  #
+  # - icon : tf-ion-android-sync
+  #
+  # - icon : tf-ion-android-sunny
+  #
+  # - icon : tf-ion-android-subway
+  #
+  # - icon : tf-ion-android-star
+  #
+  # - icon : tf-ion-android-settings
+  #
+  # - icon : tf-ion-bag
+  #
+  # - icon : tf-ion-bonfire
+  #
+  # - icon : tf-circle-compass
+  #
+  # - icon : tf-recycle2
+  #
+  # - icon : tf-scissors2
+  # - icon : tf-magnifying-glass
+  # - icon : tf-tools-2
+  # - icon : tf-pencil2
