@@ -1,7 +1,7 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We tailor elastic cloud solutions to your needs.
-description : We are an innovative organisation centered on your needs.
+title : We are the technical experts tailoring elastic cloud solutions to your needs.
+description : #We are an innovative organisation centered on your needs.
 #description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
 aboutItem :
   - icon : tf-circle-compass
