@@ -1,0 +1,26 @@
+enable : true
+heading : Our
+headingSpan : Skills
+title : We improve your systems' architecture with state-of-the-art cloud solutions in a secured manner.
+content : Our skills stem from more than 10 years of experience in research, development and innovation. We migrate systems to the cloud and overcome their complexity by automating their configuration, integration, service orchestration and microservices application management.
+image : images/about/company-growth.png
+skillItem :
+  - itemNumber : 01-
+    itemName :  Research & development
+    itemPercent : 90%
+
+  - itemNumber : 02-
+    itemName :  "Cloud migration: AWS, Azure, GCP"
+    itemPercent : 90%
+
+  - itemNumber : 03-
+    itemName :  Security
+    itemPercent : 80%
+
+  - itemNumber : 04-
+    itemName :  Microservice architecture
+    itemPercent : 95%
+
+  - itemNumber : 05-
+    itemName :  GDPR compliance
+    itemPercent : 75%

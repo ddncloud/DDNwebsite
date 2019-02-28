@@ -1,0 +1,28 @@
+enable : true
+heading : Our
+headingSpan : use cases
+content: "We have successfully developed cloud solutions across multiple industries."
+usecaseItem :
+  - icon : tf-globe
+    title : Bio-informatics
+    content : Cloud migration of the "dry lab" to Amazon web services to dinamically scale the RNA-based data analysis using queueing system and cloud management.
+
+  - icon : tf-ion-laptop
+    title : Internet of Things (IoT)
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon : tf-lifesaver
+    title : Collaborative networks
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon : tf-target3
+    title : Business intelligence
+    content : Inclusion of specialised data analysis functionalities running on the cloud infrastructure for cost-efficient data analysis while enabling BI users to access the data from everywhere and anytime.
+
+  - icon : tf-dial
+    title : Energy sector
+    content : Digital transformation to enable global collaboration while reducing the cost of running the infrastructure. Effective use of microservices and serverless deployments on Amazon.
+
+  - icon : tf-genius
+    title : GDPR and security
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
