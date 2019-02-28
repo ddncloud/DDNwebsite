@@ -10,7 +10,7 @@ skillItem :
     itemPercent : 90%
 
   - itemNumber : 02-
-    itemName :  "Cloud migration: AWS, Azure, GCP"
+    itemName :  "Cloud migration: AWS, Azure, OpenStack..."
     itemPercent : 90%
 
   - itemNumber : 03-
@@ -18,7 +18,7 @@ skillItem :
     itemPercent : 80%
 
   - itemNumber : 04-
-    itemName :  Microservice architecture
+    itemName :  Microservice architecture and containerization
     itemPercent : 95%
 
   - itemNumber : 05-

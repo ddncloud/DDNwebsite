@@ -1,6 +1,6 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We are the technical experts tailoring elastic cloud solutions to your needs.
+title : We are your technical experts tailoring elastic cloud solutions to you.
 description : #We are an innovative organisation centered on your needs.
 #description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
 aboutItem :
@@ -10,23 +10,23 @@ aboutItem :
 
   - icon : tf-tools-2
     title : Technical prowess
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    content : Across the entire cloud stack (IaaS, PaaS and SaaS) Amazon AWS, Google Cloud, OpenStack, Azure, VirtualBox, VMware. Containerization using docker and kubernetes.
 
   - icon : tf-upload2
-    title : Cloud migration
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title : Cloud architectures
+    content : Effective cloud migration achieving your goals. Modern cloud architectures including serverless with AWS Lambda following AWS SAM, microservice-based architectures and web services, devops practices and data analysis.
 
-  - icon : tf-download2
-    title : Cloud development
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - icon : tf-key #download2
+    title : Top-notch security
+    content : Modern privacy-enhancing technologies including cryptographic approaches, privacy by design and compliance to GDPR by default and to security-aware standards.
 
   - icon : tf-recycle2
     title : Quickly reuse of components and protocols
-    content : For load balancing, messaging (MQTT, Apache MQ, Rabbit MQ or OPC-UA), monitoring and cloud management with platforms such as Rightscale, Cloud foundry or Scalr.
+    content : For load balancing, messaging (MQTT, Apache MQ, Rabbit MQ or OPC-UA), data analysis (AWS Kinesis and Apache Spark) monitoring and cloud management with platforms such as Rightscale, Cloud Foundry or Scalr.
 
   - icon : tf-chat
     title: Customer centric
-    content : It is all about your needs. We work closely with you and anticipate your requirements.
+    content : "It is all about your needs. We work closely with you and anticipate your requirements: scalability, cost efficiency, business agility or elasticity."
   #
   # - icon : tf-genius
   #
