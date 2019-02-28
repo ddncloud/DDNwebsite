@@ -19,7 +19,7 @@ usecaseItem :
     title : Business intelligence
     content : Inclusion of specialised data analysis functionalities running on the cloud infrastructure for cost-efficient data analysis while enabling BI users to access the data from everywhere and anytime.
 
-  - icon : tf-dial
+  - icon : tf-linegraph
     title : Energy sector
     content : Digital transformation to enable global collaboration while reducing the cost of running the infrastructure. Effective use of microservices and serverless deployments on Amazon.
 

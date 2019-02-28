@@ -3,6 +3,10 @@ heading : About
 headingSpan : Us
 aboutItem :
 - icon : tf-tools
+  title : Innovative
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+- icon : tf-tools
   title : Customisable
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
