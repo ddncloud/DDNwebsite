@@ -2,18 +2,16 @@ enable : true
 heading : About
 headingSpan : Us
 aboutItem :
-- icon : tf-tools
+
+- icon : tf-genius
   title : Innovative
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  content : We have ample experience in research, development and innovation projects across their entire life cycle, especially in evaluation and validation activities.
 
 - icon : tf-tools
   title : Customisable
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-- icon : tf-strategy
-  title : Strategic
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  content : We use reusable software components and cloud architectures to tackle your specific problems in close contact to you.
 
 - icon : tf-anchor2
-  title : Reliable
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : Effective
+  content : Achieve strategic advantages without overheads! We achieve your goals when designing and developing cloud architectures, from cost efficiency to business agility including high degrees of automation.
+#- icon : tf-strategy
