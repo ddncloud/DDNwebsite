@@ -5,7 +5,7 @@ content: "We have successfully developed cloud solutions across multiple industr
 usecaseItem :
   - icon : tf-speedometer #ion-laptop
     title : Internet of Things (IoT)
-    content : AWS IoT framework with the AWS Serverless Application Model (SAM) to perform stream processing with AWS Kinesis and Apache Spark connected through MQTT i
+    content : AWS IoT framework with the AWS Serverless Application Model (SAM) to perform stream processing with AWS Kinesis and Apache Spark connected through MQTT.
 
   - icon : tf-piechart #target3
     title : Business intelligence
@@ -21,7 +21,7 @@ usecaseItem :
 
   - icon : tf-grid #beaker #recycle2 #dribbble scope quote globe global aperture
     title : Bio-informatics
-    content : Cloud migration of the "dry lab" to Amazon web services to dinamically scale the RNA-based data analysis using queueing system and cloud management.
+    content : Cloud migration of the "dry lab" to Amazon web services to dinamically scale the RNA-based data analysis using queueing system and cloud management with galaxy and cloudman.
 
   - icon : tf-lifesaver
     title : Collaborative networks

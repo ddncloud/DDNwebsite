@@ -10,7 +10,7 @@ skillItem :
     itemPercent : 90%
 
   - itemNumber : 02-
-    itemName :  "Cloud migration: AWS, Azure, OpenStack..."
+    itemName :  "Cloud migration and development: AWS, Azure, OpenStack..."
     itemPercent : 90%
 
   - itemNumber : 03-
